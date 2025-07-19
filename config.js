@@ -87,7 +87,7 @@ var config = {
             hidden: false,
             title: 'En nuestro imaginario colectivo: un animal tótem',
             image: '',
-            description: '<p align="center"><iframe width="420" height="236" src="https://www.youtube.com/embed/e52GVNf9Yuw?loop=1&playlist=e52GVNf9Yuw" title="Bailando con Lobos" frameborder="0" allowfullscreen></iframe></p>Y si viajamos con la mente hasta Estados Unidos, puede que esa palabra nos evoque un animal respetado por muchos pueblos nativos de América, como por ejemplo los pueblos Lakota y Pawnee. <br/><br/> (Fuente: <a href="https://en.wikipedia.org/wiki/Wolves_in_folklore,_religion_and_mythology" target="_blank">Wikipedia)</a>',
+            description: '<p align="center"><iframe width="283" height="496" src="assets/bailando-con-lobos.mp4" title="Bailando con Lobos" frameborder="0" allowfullscreen></iframe></p>Y si viajamos con la mente hasta Estados Unidos, puede que esa palabra nos evoque un animal respetado por muchos pueblos nativos de América, como por ejemplo los pueblos Lakota y Pawnee. <br/><br/> (Fuente: <a href="https://en.wikipedia.org/wiki/Wolves_in_folklore,_religion_and_mythology" target="_blank">Wikipedia)</a>',
             location: {
                 center: [-101.63967, 38.99694],
                 zoom: 4.54,
