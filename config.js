@@ -18,7 +18,7 @@ var config = {
     title: 'El lobo (Canis Lupus)',
     subtitle: 'Población y distribución de la especia en España',
     byline: 'Sonia Agudo',
-    footer: 'Fuentes: source citations, etc. <br> Creado con la plantilla <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a>',
+    footer: 'Creado con la plantilla <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a>',
     chapters: [
         
         {
@@ -207,7 +207,7 @@ var config = {
             hidden: false,
             title: 'Galicia',
             image: '',
-            description: '<iframe src="https://flo.uri.sh/visualisation/24231277/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:180px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"></iframe><br/><br/>En el censo de 2021-2024, con respecto al censo de 2012-2014, se registró en Galicia un incremento de 6 manadas exclusivas (+7,8%) y 3 manadas compartidas (+42,8%); lo que podría sugerir que Galicia es un territorio atractivo para el lobo, con una población asentada en la comunidad, y en crecimiento.',
+            description: '<iframe src="https://flo.uri.sh/visualisation/24231277/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:180px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"></iframe><br/><br/>En el censo de 2021-2024, con respecto al censo de 2012-2014, se registró en Galicia un incremento de 6 manadas exclusivas (+7,8%) y 3 manadas compartidas (+42,8%); lo que podría sugerir que Galicia es un territorio atractivo para el lobo, con una población asentada en la comunidad, yen crecimiento.',
             location: {
                 center: [-8.82253, 42.77765],
                 zoom: 7.89,
